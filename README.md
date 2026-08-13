@@ -5,7 +5,7 @@
 ### <div align="center">Hi, I'm Marina 👋</div>  
   
 
-- 🔭 I’m currently colaborating with PETComp UFCG  
+- 🔭 I’m currently collaborating with PETComp at UFCG. 
   
 
 - 💪I love learning new things and becoming the best version of myself!  
